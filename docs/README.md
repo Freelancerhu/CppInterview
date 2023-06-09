@@ -46,6 +46,10 @@
 
 ## ➕ C/C++
 
+### MINE
+https://blog.csdn.net/xu_fu_yong/article/details/122948379
+https://blog.csdn.net/BostonRayAlen/article/details/93041395
+
 ### const
 
 #### 作用
@@ -1215,6 +1219,7 @@ int main(){
 	return 0;
 }
 ```
+
 
 <a id="effective"></a>
 
